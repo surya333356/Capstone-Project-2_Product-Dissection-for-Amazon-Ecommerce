@@ -1,10 +1,12 @@
 # Capstone-Project-2_Product-Dissection-for-Amazon-Ecommerce(Relation Database)
-# Project Type - Relational Database Contribution - Individual-SURYA SINGH
+
+![image](https://github.com/user-attachments/assets/b566e914-6746-432b-912a-58ca1492217c)
+
+## Project Type - Relational Database 
+## Contribution - Individual-SURYA SINGH
 # Company Overview:
 Amazon is one of the most influential companies today, impacting culture and society across all age groups. Known as Amazon.com, Inc., it is often considered the most valuable brand and is one of the top five American tech companies. Jeff Bezos started Amazon on July 5, 1994, in Washington, USA. Based in Seattle, Amazon serves customers worldwide.
 Amazon has a large presence globally, including a significant customer base in India. Its various services, like Amazon Prime Video, Kindle, and Audible, each have their own advertisements and dedicated customers. Amazon's online shopping platform offers over 10,000 products, covering categories like lifestyle, home decor, and education.
-
-![image](https://github.com/user-attachments/assets/b566e914-6746-432b-912a-58ca1492217c)
 
 # Schema Description: 
 A schema description typically refers to a structured representation of data elements and their relationships within a database or a data format.
