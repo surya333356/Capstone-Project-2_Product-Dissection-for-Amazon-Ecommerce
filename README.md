@@ -74,4 +74,12 @@ transaction_id: Unique identifier provided by the payment processor for the tran
 # Conclusion: 
 In this case study, the well-organised database schema and detailed ERD (Entity-Relationship Diagram) show Amazon's careful planning in designing their database. This ensures data is managed efficiently and accurately. Key parts of the database, like Product, Orders, Customer Reviews, Payment, Category, Cart, and Customer, are all connected. This setup reduces duplicate data and makes retrieving information faster. This thorough design helps Amazon run a smooth e-commerce platform, allowing easy transactions, personalised shopping experiences, and the ability to grow. All of this contributes to Amazon's success and leadership in the market.
 
+# ER Diagram: 
+
+Let’s construct an Entity-Relationship (ER) diagram for the entities mentioned (Product, Orders, Customer Reviews, Payment, Category, Cart, Customer) which would involve visually representing their relationships and attributes. Below is a simplified ER diagram for these entities:
+
+![image](https://github.com/user-attachments/assets/d95f4236-508e-430b-a832-0a0ce7484d04)
+
+
+
 
